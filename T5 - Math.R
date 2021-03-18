@@ -5,7 +5,9 @@
 6 - 5
 3 * 3
 12 / 4
-
+5 ^ 2 
+5 %% 2 # Remainder of a division
+15 %/% 2 # Result rounded down to the nearest integer
 
 # Finding the max and min numbers in a set of numbers can be done like so:
 max(5, 10, 15)
