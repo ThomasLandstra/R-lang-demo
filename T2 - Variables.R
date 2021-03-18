@@ -40,3 +40,9 @@ myvar2 <- "John"
 # _my_var <- "John"
 # my_v@ar <- "John"
 # TRUE <- "John"
+
+
+## Converting number to string
+x <- 2
+x <- as.character(x)
+x
