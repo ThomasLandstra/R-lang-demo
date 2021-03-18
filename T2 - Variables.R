@@ -1,6 +1,7 @@
 # Variables
 
 ## Declaring a variable:
+# You can declare a variable by using either a right arrow "->", left arrow "<-" or an equals sign "=". We use the left arrow to declare because it is what is uused in documentation and older versions of R
 var1    <-     2   # Spaces do not matter
     var2   <-   "Bob" # Nor do tabs
 
